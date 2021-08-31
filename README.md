@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on everywhere.
-- 📫 How to reach me: Youtube, Discord, Twitter, Twitch
+- 📫 How to reach me: Youtube, Discord, Twitch
 
 <!---
 BerBerOnGithub/BerBerOnGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
