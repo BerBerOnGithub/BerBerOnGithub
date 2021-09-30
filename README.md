@@ -1,3 +1,7 @@
+<img src="https://berberongithub.github.io/berber.gif" alt="berberongithub" width="700" height="100">
+
+THE GUY WHO CODES IN BATCH AND VBS.
+
 - 👋 Hi, I’m @BerBerOnGithub
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning to program
