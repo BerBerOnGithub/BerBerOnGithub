@@ -14,10 +14,6 @@
 - 👨‍💻 I’m a self-taught programmer passionate about scripting and automation.
 - 💡 Currently learning new programming languages and tools to expand my skills.
 - 🤝 Looking to collaborate on **anywhere and everywhere** I can contribute.
-- 📫 Reach me on:
-  - 🎥 [YouTube](#)  
-  - 💬 [Discord](#)  
-  - 📺 [Twitch](#)
 
 ---
 
